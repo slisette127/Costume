@@ -15,7 +15,7 @@ Upload the repo's link to the Checkpoint-2 Assignment
 # Focus
 This app will be a tool that costumers can use to help inventory their existing raw materials. The materials will be listed by category and contain all the relevant information needed, including cost, in order to better estimate the value of the finished product. 
 
-# Data
+# Data 
 ### Fabric
 * Fabric Cost
 * Fabric Quantity, length and width measurements
@@ -23,25 +23,25 @@ This app will be a tool that costumers can use to help inventory their existing 
 * Fabric Image
 * Color ID
 
-## Notions
+### Notions
 * Type of Notion
 * Notion Cost
 * Notion description
 * Notion Quantity
 * Color ID
 
-*Color ID
+### Color ID
 * Color ID
 * Colors
 
-*Projects
+### Projects
 * Name of Project
 * Client ID
 * Deposit
 * Status of Project
 * Reference Image
 
-*Client
+### Client
 * Client ID
 * First Name
 * Last Name
@@ -54,7 +54,5 @@ This app will be a tool that costumers can use to help inventory their existing 
 
 # TABLES
 
-# Fabric 
-*Cotton
-*Polyester
+
 
