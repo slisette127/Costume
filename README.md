@@ -2,9 +2,7 @@
 
 Instructions
 
-In the README.md, list out the data you think you'll need for this app.
-Categorize the data into tables
-Define relationships between those tables
+
 Using any digital tool you like, construct an ER diagram that communicates those tables, their relationships and their fields/properties.
 Save a copy of this ER Diagram in the repo.
 Review the steps to create a DB, connect to it, seed it with data and write them down in the README.md.
@@ -15,7 +13,7 @@ Upload the repo's link to the Checkpoint-2 Assignment
 # Focus
 This app will be a tool that costumers can use to help inventory their existing raw materials. The materials will be listed by category and contain all the relevant information needed, including cost, in order to better estimate the value of the finished product. 
 
-# Data 
+# Data and Tables
 ### Fabric
 * Fabric Cost
 * Fabric Quantity, length and width measurements
@@ -48,11 +46,4 @@ This app will be a tool that costumers can use to help inventory their existing 
 * Address 
 * Email
 * Phone 
-
-
-
-
-# TABLES
-
-
 
